@@ -1,2 +1,4 @@
 Dataset/
 *.csv
+
+__pycache__

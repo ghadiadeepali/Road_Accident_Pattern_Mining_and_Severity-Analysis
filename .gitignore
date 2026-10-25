@@ -1,4 +1,7 @@
 Dataset/
-*.csv
+
+Dataset\dft-road-casualty-statistics-casualty-last-5-years.csv
+Dataset\dft-road-casualty-statistics-collision-last-5-years.csv
+Dataset\dft-road-casualty-statistics-vehicle-last-5-years.csv
 
 __pycache__
